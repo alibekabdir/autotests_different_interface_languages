@@ -1,0 +1,2 @@
+# autotests_different_interface_languages
+Автотестов для разных языков интерфейса
